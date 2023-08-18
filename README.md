@@ -1,6 +1,6 @@
 # Desafio de Projeto: Orientação a Objeto e UML
 
-Repositório referente ao desafio da plataforma Digital Innovation One Orientação a Objetos e UML: Diagramação de Classes do Iphone.
+Repositório referente ao desafio da plataforma Digital Innovation One, Orientação a Objetos e UML: Diagramação de Classes do Iphone.
 
 ## Diagrama de Classes
 
